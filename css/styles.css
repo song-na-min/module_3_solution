@@ -1,0 +1,70 @@
+body {
+  font-size: 16px;
+  
+}
+*{
+	box-sizing:border-box;
+}
+/* header*/
+#header{
+	margin-left:15px;
+}
+#header-nav{
+	background-color:#A6A6A6;
+	border-radius:0;
+	border:0;
+}
+.navbar-brand {
+  padding-top: 15px;
+}
+.navbar-brand h1{
+	font-size:1.5em;
+	text-transform:uppercase;
+	font-weight:bold;
+	margin-top:0;
+	margin-bottom:0;
+	margin-left: 0;
+	color:black;
+}
+#nav-list{
+	background-color:#E1E0E0;
+	margin-top:0;
+	margin-bottom:0;
+}
+#collapsable-nav a{
+	color:black;
+	font-size:1.1em;
+}
+#collapsable-nav hr{
+	height:2px;
+	background-color:#A6A6A6;
+	margin-top:0;
+	margin-bottom:0;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid black;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+/* content*/
+#menu-title{
+	margin-bottom:20px;
+	margin-top:0;
+	font-weight:bold;
+}
+#chicken h3{
+	margin-top:10px;
+	margin-bottom:15px;
+	font-weight:bold;
+}
+.gray_box{
+	color: black;
+    border: 1px solid black;
+    padding: 0 10px 10px 10px;
+    margin: 10px;
+    background-color: #C4C4C4;
+    height:1000px;
+
+}
